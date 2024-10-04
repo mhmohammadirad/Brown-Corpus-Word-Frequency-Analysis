@@ -25,12 +25,12 @@ pip install nltk matplotlib beautifulsoup4 requests
 1. **Word Frequency Analysis**: Analyzes word frequency from the Brown Corpus and saves it in `word_freq.txt`.
 
 2. **Visualizations**: Generates charts for:
-   - 30 Most Common Words ![Most Common Words](Q3.png)
-   - 30 Least Common Words
+   - 30 Most Frequent Words ![Most Frequent Words](Q3.png)
+   - 30 Least Frequent Words
    - Word Length vs Frequency ![Word Length vs Frequency](Q4.png)
 
-3. **Modal Verbs Analysis**: Analyzes modal verbs and plots their usage ![Modal Verbs Analysis](Q5.png).
+3. **Modal Verbs Analysis**: No. Words vs No. Characters in Modal Sentences ![Modal Verbs Analysis](Q5.png)
 
-4. **Stopwords Analysis**: Explores relationships between stopwords and sentence lengths ![Stopwords Analysis - Words](Q61.png) ![Stopwords Analysis - Characters](Q62.png).
+4. **Stopwords Analysis**: Relationships between stopwords and words and characters in a sentence ![Stopwords Analysis - Words](Q61.png) ![Stopwords Analysis - Characters](Q62.png)
 
 5. **Web Tokenization**: Tokenizes content from a webpage and saves the results in `web_output.txt`.
